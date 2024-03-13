@@ -26,4 +26,4 @@ Cada desafio possui sua própria implementação em Java, devidamente comentada 
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/desafios-programacao.git
+git clone https://github.com/SAIKO9X/challange.git
